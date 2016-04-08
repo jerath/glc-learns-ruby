@@ -1,1 +1,1 @@
-# glc-learns-ruby
+# Hello world!
